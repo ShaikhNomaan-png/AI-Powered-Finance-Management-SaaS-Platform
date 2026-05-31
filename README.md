@@ -10,6 +10,26 @@
 
 ---
 
+## 📸 Platform Showcase
+
+<div align="center">
+
+### Dashboard Preview
+![Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=500&fit=crop)
+
+### Analytics & Reports
+![Analytics](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=500&fit=crop)
+
+### Mobile Responsive Design
+![Mobile](https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400&h=600&fit=crop)
+
+### Expense Management
+![Expenses](https://images.unsplash.com/photo-1460925895917-adf4e6904b3e?w=800&h=500&fit=crop)
+
+</div>
+
+---
+
 ## 🎯 Overview
 
 An **enterprise-grade SaaS platform** that leverages artificial intelligence to provide intelligent financial management solutions. This platform enables users to track expenses, manage budgets, analyze spending patterns, and make data-driven financial decisions with AI-powered insights.
