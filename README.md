@@ -100,7 +100,7 @@
 │ 14:00   📺 Netflix                -$15.99    Subscr  │
 │ 15:45   ⛽ Shell Gas Station      -$45.00    Trans   │
 │ 17:20   💪 Gym Membership         -$49.99    Health  │
-│ 18:15   📦 Amazon                 -$89.99    Shop    │
+│ 18:15   📦 Amazon                 -$89.99    Shop    ���
 │ 19:30   🍽️ Restaurant             -$52.50    Food   │
 │ 20:45   ⚡ Electric Bill         -$120.00    Utility │
 │                                                       │
@@ -803,23 +803,6 @@ We extend our gratitude to:
 - **[Next.js Community](https://nextjs.org)** - For incredible framework & support
 - **All Contributors** - For their valuable pull requests and feedback
 - **Open Source Community** - For amazing libraries we depend on
-
----
-
-## 📞 Support & Contact
-
-Have a question, feature request, or found a bug? We'd love to hear from you!
-
-### Get Help
-- 📌 **Issues:** Open a [GitHub Issue](https://github.com/ShaikhNomaan-png/AI-Powered-Finance-Management-SaaS-Platform/issues)
-- 💬 **Discussions:** Start a [GitHub Discussion](https://github.com/ShaikhNomaan-png/AI-Powered-Finance-Management-SaaS-Platform/discussions)
-- 📧 **Email:** [support@financesaas.com](mailto:support@financesaas.com)
-- 🐦 **Twitter:** [@FinanceSaaS](https://twitter.com/financesaas)
-- 💬 **Discord:** [Join our community](https://discord.gg/finance-saas)
-
-### Business Inquiries
-- 📧 **Contact:** [business@financesaas.com](mailto:business@financesaas.com)
-- 🤝 **Partnerships:** [partners@financesaas.com](mailto:partners@financesaas.com)
 
 ---
 
